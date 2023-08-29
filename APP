@@ -1,0 +1,7 @@
+echo "# NEW-APP-" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/morangodangoo/NEW-APP-.git
+git push -u origin main https://www.figma.com/file/ukBUFdJnY46XXEfodIZcra/Untitled?type=design&node-id=0%3A1&mode=design&t=7WRAY8qPE7o8VHOU-1
